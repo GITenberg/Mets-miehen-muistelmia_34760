@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
 description: Translated excerpts from "Zapiski okhotnika."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34760#Mets-miehen-muistelmia
 gutenberg_issued: '2010-12-27'
 gutenberg_type: Text
 identifiers:
